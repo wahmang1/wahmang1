@@ -23,5 +23,5 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=flat)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/wahmang)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=flat)](https://instagram.com/wahmang_)
