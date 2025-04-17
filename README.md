@@ -34,8 +34,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wahmang1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahmang1&theme=tokyonight" alt="GitHub Streak" />
-  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahmang1&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
