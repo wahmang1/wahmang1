@@ -17,7 +17,7 @@
 
 ## 📊 GitHub Stats
 
-![Wahmang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahmang&show_icons=true&theme=tokyonight)
+![Wahmang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahmang1&show_icons=true&theme=tokyonight)
 
 ---
 
