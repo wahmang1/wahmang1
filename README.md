@@ -2,7 +2,7 @@
 
 🌱 I'm currently learning **Go**, **Backend Development**, and **System Design**  
 💼 Currently working on some exciting projects involving microservices  
-📫 How to reach me: [Email me](mailto:wahmang@example.com)
+📫 How to reach me: [Email me](mailto:wahmang1@gmail.com)
 
 ---
 
